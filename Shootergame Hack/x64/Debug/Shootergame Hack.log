@@ -1,0 +1,222 @@
+﻿  Aimbot.cpp
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(31,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Aimbot.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(55,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Aimbot.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(12,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  (compiling source file 'Aimbot.cpp')
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1):
+  see previous definition of 'DIRECTINPUT_VERSION'
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(42,17): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Aimbot.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(9,22): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(10,22): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(68,40): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(69,40): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(73,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(73,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(82,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(82,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(114,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(114,17): warning C4244:         with
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(114,17): warning C4244:         [
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(114,17): warning C4244:             T=DWORD64
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(114,17): warning C4244:         ]
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(119,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(119,17): warning C4244:         with
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(119,17): warning C4244:         [
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(119,17): warning C4244:             T=float
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(119,17): warning C4244:         ]
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(125,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(125,36): warning C4244:         with
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(125,36): warning C4244:         [
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(125,36): warning C4244:             T=float
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(125,36): warning C4244:         ]
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(148,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Aimbot.cpp(149,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ESP.cpp
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(31,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ESP.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(55,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ESP.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(12,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  (compiling source file 'ESP.cpp')
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1):
+  see previous definition of 'DIRECTINPUT_VERSION'
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(42,17): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'ESP.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(58,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(58,15): warning C4244:         with
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(58,15): warning C4244:         [
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(58,15): warning C4244:             T=DWORD64
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(58,15): warning C4244:         ]
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(73,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(73,14): warning C4244:         with
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(73,14): warning C4244:         [
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(73,14): warning C4244:             T=float
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(73,14): warning C4244:         ]
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(92,103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(92,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(92,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(92,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(134,41): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\ESP.cpp(135,41): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  globals.cpp
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(31,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'globals.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(55,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'globals.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\globals.cpp(59,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\globals.cpp(59,42): warning C4244:         with
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\globals.cpp(59,42): warning C4244:         [
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\globals.cpp(59,42): warning C4244:             T=DWORD64
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\globals.cpp(59,42): warning C4244:         ]
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  main.cpp
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(31,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(55,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(12,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1):
+  see previous definition of 'DIRECTINPUT_VERSION'
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(42,17): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Math.cpp
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(31,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Math.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(55,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Math.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.cpp(51,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Menu.cpp
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(31,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(55,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(12,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  (compiling source file 'Menu.cpp')
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1):
+  see previous definition of 'DIRECTINPUT_VERSION'
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(42,17): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.cpp(25,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.cpp(26,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.cpp(144,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.cpp(225,42): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+  Misc.cpp
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(31,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(55,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(12,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  (compiling source file 'Misc.cpp')
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42,1):
+  see previous definition of 'DIRECTINPUT_VERSION'
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Menu.h(42,17): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Misc.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Misc.cpp(19,53): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Misc.cpp(19,53): warning C4244:         with
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Misc.cpp(19,53): warning C4244:         [
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Misc.cpp(19,53): warning C4244:             T=DWORD64
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Misc.cpp(19,53): warning C4244:         ]
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Misc.cpp(34,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Misc.cpp(74,15): warning C4309: '=': truncation of constant value
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\commands.h(10,30): warning C4244: '=': conversion from 'BOOL' to 'float', possible loss of data
+  (compiling source file 'Misc.cpp')
+  C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\commands.h(10,30):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Misc.cpp(41,11):
+  	see reference to function template instantiation 'T Driver::write<float>(HANDLE,DWORD64,T *)' being compiled
+          with
+          [
+              T=float
+          ]
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\commands.h(10,30): warning C4244: 'argument': conversion from 'BOOL' to 'float', possible loss of data
+  (compiling source file 'Misc.cpp')
+  C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\commands.h(10,30):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Misc.cpp(61,13):
+  	see reference to function template instantiation 'T Driver::write<vector3D>(HANDLE,DWORD64,T *)' being compiled
+          with
+          [
+              T=vector3D
+          ]
+  
+  Render.cpp
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(31,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Render.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(55,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Render.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(8,66): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(8,44): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(32,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(32,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(32,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(32,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(42,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(57,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(57,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(57,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(57,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(62,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(62,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(62,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(62,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(67,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(67,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(67,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(67,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(71,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(71,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(71,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Render.cpp(71,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  utils.cpp
+  C:\Users\rivers\Documents\Hacking\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(31,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'utils.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame Hack\Math.h(55,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'utils.cpp')
+  
+  Generating Code...
+  Shootergame Hack.vcxproj -> C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\x64\Debug\Shootergame Hack.exe

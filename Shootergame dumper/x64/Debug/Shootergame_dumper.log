@@ -1,0 +1,9 @@
+﻿  DLLEntry.cpp
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame dumper\dump_offsets.h(50,15): warning C4101: 'propertyName': unreferenced local variable
+  (compiling source file 'DLLEntry.cpp')
+  
+C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\Shootergame dumper\dump_offsets.h(85,11): warning C4101: 'objName': unreferenced local variable
+  (compiling source file 'DLLEntry.cpp')
+  
+  LINK : C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\x64\Debug\shootergame Dumper.dll not found or not built by the last incremental link; performing full link
+  Shootergame_dumper.vcxproj -> C:\Users\Rivers\Documents\Hacking\Game\UE4UniversalHackTEST\x64\Debug\shootergame Dumper.dll
